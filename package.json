@@ -1,0 +1,43 @@
+{
+  "name": "@kjartango/vidhaldhugbunadar3",
+  "publishConfig": {
+    "@kjartango:registry": "https://npm.pkg.github.com"
+  },
+  "version": "3.0.1",
+  "description": "This assignment is meant to improve your unit testing skills and teach you a few best practices when it comes to working with external libraries.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "kjartango",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "moment": "^2.29.4",
+    "prettier": "^2.8.4",
+    "vitest": "^0.27.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "@vitest/coverage-c8": "^0.28.4",
+    "eslint": "^8.34.0",
+    "eslint-plugin": "^1.0.1",
+    "eslint-plugin-vihu": "file:./rules",
+    "typescript": "^4.9.5"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjartango/VidhaldHugbunadarAss3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kjartango/VidhaldHugbunadarAss3/issues"
+  },
+  "homepage": "https://github.com/kjartango/VidhaldHugbunadarAss3#readme"
+}

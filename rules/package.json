@@ -1,0 +1,11 @@
+{
+  "name": "rules",
+  "version": "1.0.0",
+  "description": "custom rules for eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kjartan Gauti Gíslason",
+  "license": "ISC"
+}

@@ -1,9 +1,9 @@
 {
-  "name": "@kjartango/vidhaldhugbunadar3",
+  "name": "@kjartango/no-moment",
   "publishConfig": {
     "@kjartango:registry": "https://npm.pkg.github.com"
   },
-  "version": "3.0.1",
+  "version": "1.0.0",
   "description": "This assignment is meant to improve your unit testing skills and teach you a few best practices when it comes to working with external libraries.",
   "main": "index.js",
   "scripts": {
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kjartango/VidhaldHugbunadarAss3.git"
+    "url": "git+https://github.com/kjartango/no-moment.git"
   },
   "bugs": {
-    "url": "https://github.com/kjartango/VidhaldHugbunadarAss3/issues"
+    "url": "https://github.com/kjartango/no-moment/issues"
   },
-  "homepage": "https://github.com/kjartango/VidhaldHugbunadarAss3#readme"
+  "homepage": "https://github.com/kjartango/no-moment3#readme"
 }

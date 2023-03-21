@@ -3,7 +3,7 @@
   "publishConfig": {
     "@kjartango:registry": "https://npm.pkg.github.com"
   },
-  "version": "3.0.1",
+  "version": "1.0.0",
   "description": "This assignment is meant to improve your unit testing skills and teach you a few best practices when it comes to working with external libraries.",
   "main": "index.js",
   "scripts": {
